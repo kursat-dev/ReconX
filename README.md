@@ -97,9 +97,3 @@ python reconx.py google.com -o results.json
 ## 📝 License
 
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
-
----
-
-<div align="center">
-  <p>Made with ❤️ for Security Research</p>
-</div>
