@@ -1,0 +1,11 @@
+{
+    "target": "google.com",
+    "subdomains": [],
+    "open_ports": [
+        80,
+        443
+    ],
+    "tech_stack": {
+        "Server": "gws"
+    }
+}
