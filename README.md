@@ -48,7 +48,7 @@ To get ReconX up and running, follow these simple steps.
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/reconx.git
+git clone https://github.com/kursat-dev/ReconX.git
 cd reconx
 ```
 
